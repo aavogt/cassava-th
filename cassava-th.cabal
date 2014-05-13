@@ -1,6 +1,6 @@
 name:                cassava-th
 version:             0.1.0.0
-synopsis:            template haskell to generate data from a sample csv file
+synopsis:            generate a data type for use with cassava given a sample csv file
 license:             BSD3
 license-file:        LICENSE
 author:              Adam Vogt <vogt.adam@gmail.com>
